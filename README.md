@@ -1,0 +1,1 @@
+A Web application to store points on a canvas.
